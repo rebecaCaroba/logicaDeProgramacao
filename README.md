@@ -7,7 +7,7 @@ Repositório pessoal para treinar e organizar exercícios de lógica de programa
 - `JS/` — Exercícios e exemplos em JavaScript.
   - `cedulas.js` — Exemplo: calcula quantidade de notas (R$ 100, 50, 20, 10, 5, 2, 1) para um valor fixo.
   - `maior.js` — Exemplo: encontra o maior entre três números.
-  - 
+    
 Pré-requisitos:
   1. Ter o Node.js instalado (para executar os exemplos em `JS/`).
 
