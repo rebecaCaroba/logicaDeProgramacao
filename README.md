@@ -1,4 +1,4 @@
-# LOGICADEPROG
+# LOGICA DE PROGRAMAÇÃO
 
 Repositório pessoal para treinar e organizar exercícios de lógica de programação em várias linguagens (JavaScript, Python, PHP, etc.). O objetivo é agrupar pequenos scripts e exemplos que eu crio enquanto estudo algoritmos, estruturas de controle, manipulação de dados e prática de resolução de problemas.
 
