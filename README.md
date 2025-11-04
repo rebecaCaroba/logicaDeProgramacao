@@ -8,8 +8,6 @@ Repositório pessoal para treinar e organizar exercícios de lógica de programa
   - `cedulas.js` — Exemplo: calcula quantidade de notas (R$ 100, 50, 20, 10, 5, 2, 1) para um valor fixo.
   - `maior.js` — Exemplo: encontra o maior entre três números.
 
-(Adicione outras pastas como `PY/`, `PHP/`, `C/` quando incluir exercícios em outras linguagens.)
-
 ## Como usar / executar (exemplos em Windows PowerShell)
 
 Pré-requisito: ter o Node.js instalado (para executar os exemplos em `JS/`).
